@@ -21,7 +21,7 @@ Answer:
 
     llm = ChatOpenAI(
         model="deepseek/deepseek-chat-v3-0324:free",  # ✅ Valid free model
-        api_key=os.getenv("OPENROUTER_API_KEY", "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"),
+        api_key=os.getenv("OPENROUTER_API_KEY", "sk-KEY PASTE HERE"),
         base_url="https://openrouter.ai/api/v1",
         temperature=0
     )
