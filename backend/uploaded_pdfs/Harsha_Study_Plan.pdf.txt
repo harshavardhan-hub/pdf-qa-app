@@ -1,0 +1,20 @@
+Daily Study Plan - Personalized for Harsha
+Morning Session (9:00 AM - 1:00 PM)
+9:00 AM - 11:00 AM: NxtWave Study (video lessons or concept learning)
+11:00 AM - 12:00 PM: SQL Revision (queries, joins, mini projects)
+12:00 PM - 1:00 PM: Python (practice problems, projects, DSA)
+Afternoon Session (2:00 PM - 6:00 PM)
+2:00 PM - 3:00 PM: JavaScript (DOM, ES6, logic building)
+3:00 PM - 5:00 PM: NxtWave Hands-On (assignments, practicals)
+5:00 PM - 6:00 PM: HTML/CSS or Aptitude/Reasoning (alternate days)
+Evening Session (7:00 PM - 9:00 PM)
+7:00 PM - 8:00 PM: English Improvement (reading, grammar, speaking)
+8:00 PM - 9:00 PM: NxtWave Quick Recap or Solve Weak Topics
+Daily Time Allocation Summary
+NxtWave Study: 4 hours
+SQL: 1 hour
+Python: 1 hour
+JavaScript: 1 hour
+HTML/CSS or Aptitude: 1 hour
+English: 1 hour
+Buffer/Review Time: Last hour (flexible)

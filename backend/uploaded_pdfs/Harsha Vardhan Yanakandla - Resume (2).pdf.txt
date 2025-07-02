@@ -1,0 +1,43 @@
+Harsha Vardhan Yanakandla
+Full Stack Web Developer
+yanakandlaharshavardhan@gmail.com
++919441591443
+Anantapur
+harsha-vardhan-yanakandla
+harshavardhan-hub
+EDUCATION
+Jawaharlal Nehru Technological University Anantapur ~ (JNTUA)
+Bachelor of Technology - 7.89
+2022 - 2026
+Narayana Junior College
+Intermediate
+2020 - 2022
+Sri Chaithanya School
+School
+2016 - 2020
+SKILLS
+Frontend: HTML, CSS, Bootstrap, JavaScript, React.js
+Backend: Node.js, Express.js, Python, API's
+Databases: SQL
+Version Control Tools: Git, GitHub
+PROJECTS
+Personal Portfolio Website
+• The website features a responsive design that seamlessly adapts to all screen sizes, thanks to Bootstrap's 
+grid system.
+• Its modern layout offers a clean, professional design with easy navigation, built using HTML, CSS, and 
+Bootstrap.
+Food Munch Restaurant Web Page
+• Food Munch is a responsive website designed to provide a seamless user experience across various devices.
+• Its adaptive design intuitively adjusts to different screen sizes, ensuring easy navigation and an appetizing 
+showcase of culinary delights.
+Todos Application
+• Developed a dynamic Todos application using HTML, CSS, and JavaScript, featuring real-time task 
+management with add, edit, and delete functionalities.
+• Implemented responsive design principles to ensure seamless usability across desktop and mobile devices.
+CERTIFICATES
+Static Website
+Responsive Website
+Dynamic Web Application
+AWARDS
+Got 1st Prize in a Coding Competition ~ JNTUA
+Got 1st Prize in a Quiz competition by E-Udhbhav ~ Anantha Lakshmi Institute of Technology
